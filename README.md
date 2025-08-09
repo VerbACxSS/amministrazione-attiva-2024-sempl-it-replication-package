@@ -35,7 +35,7 @@ This contribution is a result of the research conducted within the framework of 
 
 
 ## How to cite us
-Vittorio Ganfi, Marco Russodivito (2025). SEMPL-IT: un modello di intelligenza artificiale per la semplificazione dell'italiano. In *Giuliana Fiorentino, Alessandro Cioffi, Maria Ausilia Simonelli (a cura di), AMMINISTRAZIONE ATTIVA. Semplicità e chiarezza per la comunicazione amministrativa (Quaderni della Rassegna, 254). Firenze: Franco Cesati Editore. ISBN 979-12-5496-268-8*.
+Vittorio Ganfi e Marco Russodivito (2025). SEMPL-IT: un modello di intelligenza artificiale per la semplificazione dell'italiano. In *Giuliana Fiorentino, Alessandro Cioffi, Maria Ausilia Simonelli (a cura di), AMMINISTRAZIONE ATTIVA. Semplicità e chiarezza per la comunicazione amministrativa (Quaderni della Rassegna, 254). Firenze: Franco Cesati Editore. ISBN 979-12-5496-268-8*.
 
 ```bibtex
 @inproceedings{ganfi2025semplit,
